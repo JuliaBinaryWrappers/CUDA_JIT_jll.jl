@@ -1,35 +1,35 @@
 [[CUDA_JIT]]
 arch = "x86_64"
-git-tree-sha1 = "77ea887b54ef0e28d7e1c98c6c1e0af4abfbfc8c"
+git-tree-sha1 = "7cbf003f3f408542be0a1b80b586c7b3a2ce31d0"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_JIT.download]]
-    sha256 = "307f887c9b1f521ab90a7bb859cf9ce5e7230758f22d76f3b13fc4396806863d"
+    sha256 = "73b4b13614f8c01866de7cb26053c832b7c3cf45efb063ff0dc2411744e5f415"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_JIT_jll.jl/releases/download/CUDA_JIT-v12.4.1+0/CUDA_JIT.v12.4.1.x86_64-linux-gnu.tar.gz"
 [[CUDA_JIT]]
 arch = "powerpc64le"
-git-tree-sha1 = "7caebe581c236d7e97caaf3591533acf708f5252"
+git-tree-sha1 = "8d38e19a40e8bbea6cd01b8f0ad2ffae650ae560"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_JIT.download]]
-    sha256 = "62a24f26785fda97bfb0e4d469b122040a0987ae4ad4bbe57182522fcb72ff2b"
+    sha256 = "a11f0b220f6a470e9685643546f649a73ad84cde8519efc69d7bc7cdec989fbe"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_JIT_jll.jl/releases/download/CUDA_JIT-v12.4.1+0/CUDA_JIT.v12.4.1.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_JIT]]
 arch = "aarch64"
-git-tree-sha1 = "b6117aa72651fe0679d78ef10bbbb8863fb996f1"
+git-tree-sha1 = "c570a3e32963c15a4ce0c86eac83b5864387a944"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_JIT.download]]
-    sha256 = "d08c03e66dcfe3f1c2efd6a9ceb87a9e16c090a7b5e23d535f219d67dcc89588"
+    sha256 = "32080d3c2cc323866ee387bc1611afb93e3bfcfd54b32d3ad50a13710d93d784"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_JIT_jll.jl/releases/download/CUDA_JIT-v12.4.1+0/CUDA_JIT.v12.4.1.aarch64-linux-gnu.tar.gz"
 [[CUDA_JIT]]
 arch = "x86_64"
-git-tree-sha1 = "ad2d0773f2a308c399dfd611c778f1dd98737cc8"
+git-tree-sha1 = "22bf15590bddff72af430c36fa11629520d0ba77"
 os = "windows"
 
     [[CUDA_JIT.download]]
-    sha256 = "d8d5265a7d517c87a7b72efe734df66b8b8e9ce2ed8cc1e3945122392ffe324d"
+    sha256 = "764177b672d2df84075e3557f33c2a59aa68aaa0af0910b952fa81ff5c490f0c"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_JIT_jll.jl/releases/download/CUDA_JIT-v12.4.1+0/CUDA_JIT.v12.4.1.x86_64-w64-mingw32.tar.gz"
